@@ -1,6 +1,6 @@
 # AfterHours
 
-**Repository:** [github.com/YaSH2020-STAR/Afterhours](https://github.com/YaSH2020-STAR/Afterhours)
+**Repository:** [github.com/SumaReddy369/afterhours](https://github.com/SumaReddy369/afterhours)).
 
 Small weekly pods, bounded seasons — Next.js, Prisma, **PostgreSQL** (Docker locally, Neon/Supabase in production).
 
